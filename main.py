@@ -1,3 +1,9 @@
+# this projects aims to predict breast cancer with the help of KNeighborsClassifier ,dataset is taken from sklearn 
+
+
+
+
+
 import numpy as np
 import pandas as pd
 import matplotlib as plt
